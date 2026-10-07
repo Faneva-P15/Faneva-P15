@@ -40,6 +40,12 @@
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
 ![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat&logo=logstash&logoColor=white)
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Faneva-P15?label=Followers&style=for-the-badge&color=8A2BE2" />
+  <img src="https://img.shields.io/github/stars/Faneva-P15?label=Total%20Stars&style=for-the-badge&color=FFD700" />
+  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-2ECC71?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 <!--
 **Faneva-P15/Faneva-P15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
