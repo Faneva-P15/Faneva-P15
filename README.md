@@ -51,6 +51,11 @@
   <img src="https://img.shields.io/github/stars/Faneva-P15?label=Total%20Stars&style=for-the-badge&color=FFD700" />
   <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-2ECC71?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+
+
+
+
 <p align="center">
   <a href="mailto:fanevapatricia15@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/faneva-patricia-544738439/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
