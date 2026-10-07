@@ -21,6 +21,14 @@
 ### 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Faneva-P15&show_icons=true&theme=radical)
 
+
+### 🧰 Tech Stack
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 <!--
 **Faneva-P15/Faneva-P15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
