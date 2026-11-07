@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=44&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&height=90&lines=Hi,+I'm+Faneva." alt="Hi, I'm Faneva." />
+  
 </p>
 
 <p align="center">
