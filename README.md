@@ -2,9 +2,6 @@
   <img src="https://raw.githubusercontent.com/Faneva-P15/Faneva-P15/HEAD/header.svg" alt="Hi, I'm Faneva." width="800" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=System+%26+Network+Administration;Linux+%C2%B7+Docker+%C2%B7+Monitoring" alt="System & Network Administration" />
-</p>
 
 ---
 
