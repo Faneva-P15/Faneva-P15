@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Faneva-P15/Faneva-P15/HEAD/header.svg" alt="Hi, I'm Faneva." width="800" />
-</p>
 
 
 ---
