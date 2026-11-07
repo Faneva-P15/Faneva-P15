@@ -33,18 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Faneva-P15&show_icons=true&theme=radical" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faneva-P15&layout=compact&theme=radical" height="180" />
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
 <p align="center">
   <a href="mailto:fanevapatricia15@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/faneva-patricia-544738439/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
