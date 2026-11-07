@@ -5,10 +5,6 @@
 
 ---
 
-### 🚀 About me
-- 🎓 Étudiant en informatique
-- 🌐 Passionné de réseaux et d'IT
-- 🎯 Objectif : maîtriser les réseaux et l'informatique
 - ⚡ Passionate about system and network administration, I learn new tools every day and take on technical challenges.
 
 ---
