@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Faneva-P15/Faneva-P15/HEAD/header.svg?font=Fira+Code&weight=700&size=24&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=700&height=50&lines=System+%26+Network+Administration;Linux+%C2%B7+Docker+%C2%B7+Monitoring" alt="System & Network Administration" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWU0ZmZsZDJwZ204dWwxYzdzNXEzNWV1MG45d2E3bGtvMWpnOWF4NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sk6yL9EGVeAcE/giphy.gif?font=Fira+Code&weight=700&size=24&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=700&height=50&lines=System+%26+Network+Administration;Linux+%C2%B7+Docker+%C2%B7+Monitoring" alt="System & Network Administration" />
 </p>
 
 ---
