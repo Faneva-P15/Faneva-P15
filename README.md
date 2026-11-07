@@ -93,5 +93,6 @@ I like to understand how things work, and I'm ready to invest myself to carry ou
 
 <h3 align="center">Thanks for visiting! ❤️</h3>
 <p align="center">
-  <img src="https://camo.githubusercontent.com/a5bfa360351847b583439bb8bc5580cd5bc46b71ab0ac756176bbdfe379d836a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7855504763456c69436337624554793348692f67697068792e676966?font=Fira+Code&weight=700&size=24&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=700&height=50&lines=System+%26+Network+Administration;Linux+%C2%B7+Docker+%C2%B7+Monitoring" alt="System & Network Administration" />
+  <img src="?font=Fira+Code&weight=700&size=24&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=700&height=50&lines=System+%26+Network+Administration;Linux+%C2%B7+Docker+%C2%B7+Monitoring" alt="System & Network Administration" />
+  <img src="?font=Fira+Code&weight=700&size=24&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=700&height=50&lines=System+%26+Network+Administration;Linux+%C2%B7+Docker+%C2%B7+Monitoring" alt="System & Network Administration" />
 </p>
