@@ -4,14 +4,13 @@
 
 
 
-### 🏴‍☠️ Following Luffy's dream — but my Grand Line is the network 🌐
+###  Following Luffy's dream — but my Grand Line is the network 
 
 ---
 
 ### 🚀 About me
 - 🎓 Étudiant en informatique
 - 🌐 Passionné de réseaux et d'IT
-- 🏴‍☠️ Fan de One Piece
 - 🎯 Objectif : maîtriser les réseaux et l'informatique
 
 ---
