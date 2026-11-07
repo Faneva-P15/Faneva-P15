@@ -93,5 +93,5 @@ I like to understand how things work, and I'm ready to invest myself to carry ou
 
 <h3 align="center">Thanks for visiting! ❤️</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXo3NHV0ZmdmcWhqamdoMWc4amxrZDhuZm5tZ2RraXVsbWRjMm1rbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cRkml49hBqMpkaDQpU/giphy.gif?font=Fira+Code&weight=700&size=24&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=700&height=50&lines=System+%26+Network+Administration;Linux+%C2%B7+Docker+%C2%B7+Monitoring" alt="System & Network Administration" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3k3M3k5aWN1ZDlkMTl4NGd3MXRpeGtxbzhoNW55c3hvNmYyOWI5ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6YpTm9TzD6NcatLwGQ/giphy.gif?font=Fira+Code&weight=700&size=24&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=700&height=50&lines=System+%26+Network+Administration;Linux+%C2%B7+Docker+%C2%B7+Monitoring" alt="System & Network Administration" />
 </p>
