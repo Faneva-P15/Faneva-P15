@@ -1,10 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Faneva-P15&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Following%20Luffy's%20dream&descAlignY=55&descSize=20)
 
 
-                  Passionate about system and network administration, 
-                  I learn new tools every day and take on technical challenges.
-
-
 ###  Following Luffy's dream — but my Grand Line is the network 
 
 ---
@@ -13,6 +9,7 @@
 - 🎓 Étudiant en informatique
 - 🌐 Passionné de réseaux et d'IT
 - 🎯 Objectif : maîtriser les réseaux et l'informatique
+- ⚡ Passionate about system and network administration, I learn new tools every day and take on technical challenges.
 
 ---
 
