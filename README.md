@@ -64,13 +64,39 @@
 ---
 
 ## 🐍 Contribution Snake
+name: Generate Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Faneva-P15/Faneva-P15/output/snake.svg" alt="Snake animation" />
-</p>
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Faneva-P15&label=Visitors&color=6a3de8&style=for-the-badge" alt="Visitors" />
-</p>
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate the snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=%23b794f6&color_dots=%23161b22,%232d1b69,%234c2a9e,%236a3de8,%23b794f6
+            dist/snake-dark.svg?palette=github-dark&color_snake=%23b794f6&color_dots=%23161b22,%232d1b69,%234c2a9e,%236a3de8,%23b794f6
+
+      - name: Publish on the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&reversal=true&text=Thank%20you%20for%20visiting%20!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=62)
