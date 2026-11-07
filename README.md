@@ -11,7 +11,7 @@
 
 ---
 
-## 👤 About Me <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdyOHg5NnFncnlyMjA1amN3OWczbDA5MjE4dzdiNnpsZTN6dW92NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/umjnO4NQzxViBH5eZR/giphy.gif? />
+## 👤 About Me 
 
 I'm Faneva (Faneva-P15), a computer science student at ENI Fianarantsoa, Madagascar.
 
