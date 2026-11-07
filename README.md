@@ -1,10 +1,10 @@
 <p align="center">
-https://raw.githubusercontent.com/Faneva-P15/Faneva-P15/HEAD/header.svg
+
   
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=700&height=50&lines=System+%26+Network+Administration;Linux+%C2%B7+Docker+%C2%B7+Monitoring" alt="System & Network Administration" />
+  <img src="https://raw.githubusercontent.com/Faneva-P15/Faneva-P15/HEAD/header.svg?font=Fira+Code&weight=700&size=24&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=700&height=50&lines=System+%26+Network+Administration;Linux+%C2%B7+Docker+%C2%B7+Monitoring" alt="System & Network Administration" />
 </p>
 
 ---
